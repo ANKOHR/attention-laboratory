@@ -1,0 +1,6 @@
+# Synthetic hand-written five-record example
+{"id":"one","scores":[3,1],"budget":12,"window":1,"synthetic":true,"source":"synthetic hand-written example","date":"2026-09-30"}
+{"id":"two","scores":[1,1,1,1],"budget":12,"window":1,"synthetic":true,"source":"synthetic hand-written example","date":"2026-09-30"}
+{"id":"three","scores":[1],"budget":6,"window":0,"synthetic":true,"source":"synthetic hand-written example","date":"2026-09-30"}
+{"id":"four","scores":[0,2,0],"budget":9,"window":1,"synthetic":true,"source":"synthetic hand-written example","date":"2026-09-30"}
+{"id":"five","scores":[1,2,3],"budget":6,"window":0,"synthetic":true,"source":"synthetic hand-written example","date":"2026-09-30"}
