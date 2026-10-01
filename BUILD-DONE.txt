@@ -1,0 +1,5 @@
+Tests: 42 passed (python -m pytest -q).
+Local implementation commit: 215df1f3614dcd28f7bebe9cb597fdd2f4ccb057
+This hash identifies the tested implementation; the following documentation commit adds this completion record.
+
+Built a CPU-only, offline Python al CLI with fixtures, run, report, distribution, and scaling commands. Pure exact-fraction calculations normalize supplied attention scores, allocate explicit budgets, identify focused distributions, and count theoretical attention pairs. The labelled 200-record synthetic fixture matches independently hand-computed ground truth with 100 focused cases and zero false positives. Both report formats retain explicit inputs and provenance, and adversarial tests cover parsing, schema drift, deterministic bytes, corrupted fixtures, Unicode, and atomic output failures. The installed executable completed the fixture workflow in 0.9707863 seconds locally. README, EVIDENCE.md, LESSONS.md, and VERDICT.md document the contract, evidence, limitations, and pending two-week real-use review. Nothing was published or measured as model quality or savings.
